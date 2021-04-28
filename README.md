@@ -1,7 +1,7 @@
 # Notes_Application
 This Notes Application is built using SharedPreferences for Storage, Menu Inflator for Menu and Alert Dialog to show some alert to user.
  
-Add Notes through Menu:
+<h3>Add Notes through Menu:</h3>
 ![](images/Screenshot%20(93).png)
 
 Type Your Note:
@@ -20,5 +20,5 @@ After Deleting The Note:
 Editing the Note:
 ![](images/Screenshot%20(98).png)
 
-Edited Note Appears ing the List View:
+Edited Note Appears in the List View:
 ![](images/Screenshot%20(99).png)
